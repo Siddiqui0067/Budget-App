@@ -1,0 +1,124 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+.head{
+    /* position: relative;
+    left: 55pc; */
+    font-weight:bolder;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xxx-large;
+    border: solid;
+    color: rgb(255, 255, 255);
+    background-color:rgb(146, 117, 42);
+    box-shadow: 2px 2px 5px black;
+}
+
+body{
+    /* position: relative; */
+    border: solid;
+    width: 118pc;
+    height: 56pc;
+    margin: 10px 10px;
+    background-color: #fff4c4;
+    
+
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.searchbar{
+    line-height: 2.5pc;
+    font-weight: bolder;
+    font-size: large;
+    width: 11pc;
+    height: 13pc;
+    border: 1px solid;
+    box-shadow: 1.9px 1.9px 9.9px;
+    position: relative;
+    right: 15pc;
+    top: 9pc;
+    padding: 0pc 1pc 0pc 1pc;
+    
+      
+}
+.searchbar button {
+    width: 7pc;
+    height: 2pc;
+    font-size: medium;
+    font-weight: bold;
+    position: relative;
+    bottom: px;
+}
+
+
+#inp{
+    width: 6pc;
+    height: 2pc;
+    border-radius: 5px;
+}
+
+.h{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger x-large;
+}
+
+.form{
+    width: auto;
+    height: 35pc;
+    border: solid;
+   padding: 2pc 2pc;
+   box-shadow: 1.9px 1.9px 9.9px;
+    position: relative;
+    top: 5pc;
+    left: 4pc
+   
+}
+
+.detail{
+    border: solid 1px;
+    width: 25pc;
+    height: 6pc;
+    display: flex;
+    box-shadow: 1.9px 1.9px 9.9px;
+    position: absolute;
+    top: 35pc;
+    left : 3pc;
+    justify-content: space-around;
+    font-weight: bolder
+
+}
+
+
+/* .a{
+    display: flex;
+    width: auto;
+    height: 2pc;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 65pc;
+    top: 23pc;
+    
+} */
+/* .b{
+    display: flex;
+    position:relative;
+    justify-content: center; 
+    align-items: last baseline; 
+} */
+.Expense{
+        border: solid;
+       background-color: #fff4c4;
+        box-shadow: 1.9px 1.9px 9.9px;
+        position: relative;
+        left: 15pc;
+        top: 5pc;
+        width:25pc ;
+        padding: 0pc 2pc 2pc 2pc;
+      
+}
+
